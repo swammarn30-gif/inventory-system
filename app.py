@@ -71,4 +71,3 @@ st.data_editor(
     data,
     use_container_width=True,
     num_rows="dynamic"
-)
